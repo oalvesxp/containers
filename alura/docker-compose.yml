@@ -3,7 +3,7 @@ services:
   mongodb:
     image: mongo:4.4.6
     container_name: meu-mongo
-    networks:
+    networks: 
       - compose-bridge
 
   alurabooks:
@@ -17,5 +17,5 @@ services:
       - mongodb
 
 networks:
-  comprose-bridge:
+  compose-bridge:
     driver: bridge
