@@ -37,6 +37,12 @@ x64
 Docker version 23.0.1, build a5ee5b1
 ```
 
+- (Docker Compose) docker-compose-v2.16
+```
+> docker compose version
+Docker Compose version v2.16.0
+```
+
 - (S.O.) Ubuntu-22.04 LTS
 ```
 > lsb_release -a
