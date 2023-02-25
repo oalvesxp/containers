@@ -36,3 +36,13 @@ x64
 > docker --version
 Docker version 23.0.1, build a5ee5b1
 ```
+
+- (S.O.) Ubuntu-22.04 LTS
+```
+> lsb_release -a
+No LSB modules are available.
+Distributor ID: Ubuntu
+Description:    Ubuntu 22.04.2 LTS
+Release:        22.04
+Codename:       jammy
+```
