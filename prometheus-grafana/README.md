@@ -52,3 +52,8 @@ Description:    Ubuntu 22.04.2 LTS
 Release:        22.04
 Codename:       jammy
 ```
+
+Para mais informações acesse o Wiki deste repositório:
+ - Comandos básicos;
+ - Conceitos detalhados;
+ - Tutoriais de instalação e configuração;
